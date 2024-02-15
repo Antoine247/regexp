@@ -1,0 +1,39 @@
+Laboratorio de Anatomía Patológica
+Red Pathology
+Paciente:
+Protocolo:
+Médica/o:
+Procedencia:
+Fecha:
+Afiliado/DNI:
+Edad:
+STUART, MARILIS
+40699
+Giavedoni, Julia
+11/Abr/2023
+U. PERSONAL
+631619
+Informe Histo y Citopatológico
+46
+Material: A) ANTRO GASTRICO. DETECCION DE HELICOBACTER PYLORI.
+B) POLIPO EN TECHO GASTRICO. DETECCION DE HELICOBACTER PYLORI.
+Examen Macroscópico
+A) Se reciben dos fragmentos irregulares, blanquecinos, milimétricos.
+B) Se recibe pólipo sésil, liso, pardo-claro. Mide 0.5 x 0.3 cm. Se hemisecciona.
+Examen Microscópico
+A) Las secciones histológicas muestran mucosa gástrica antral con fovéolas y epitelio conservado. La 
+lámina propia exhibe leve infiltrado inflamatorio linfo-plasmocitario.
+B) Las secciones histológicas muestran mucosa oxíntica polipoide, con acortamiento foveolar y luces 
+glandulares próximas entre sí, algunas con ectasia y aplanamiento epitelial. La lámina propia presenta 
+edema, vasocongestión, haces de músculo liso y dispersas células inflamatorias.
+Estudios Complementarios
+A) Con técnica de Giemsa no se identifican microorganismos compatibles con Helicobacter pylori.
+Diagnóstico
+A) Mucosa gástrica antral, biopsia endoscópica:
+Gastritis crónica leve, inactiva.
+Helicobacter pylori negativo.
+B) Pólipo de techo gástrico, resección endoscópica:
+Pólipo de glándulas fúndicas.
+24/04/2023
+Informe confidencial. Secreto médico. Alcance del artículo 156 del Código Penal.
+Sargento Salazar 1407, Hurlingham. Mail: redpathology@gmail.com.
