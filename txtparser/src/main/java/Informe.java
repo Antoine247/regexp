@@ -11,31 +11,39 @@ public class Informe {
         afiliado,
         edad,
         tituloInforme,
-        cuerpo;   
+        cuerpo,
+        pie;   
 
 
     public String ordernar(){
         String resultado = "";
-        resultado = titulo + 
+        resultado = this.getTitulo() + 
             "\nPaciente:\n" +
-            paciente +
+            this.getPaciente() +
             "\nProtocolo:\n" +
-            protocolo + 
+            this.getProtocolo() + 
             "\nMedico\\a:\n" +
-            medico + 
+            this.getMedico() + 
             "\nProcedencia:\n" +
-            procedencia +
+            this.getProcedencia() +
             "\nFecha\n" +
-            fecha +
+            this.getFecha() +
             "\nAfiliado/DNI\n" +
-            afiliado +
+            this.getAfiliado() +
             "\nEdad:\n" +
-            edad + "\n" +
-            tituloInforme + "\n" +
-            cuerpo;
+            this.getEdad() + "\n" +
+            this.getTituloInforme() + "\n" +
+            this.getCuerpo() + "\n" +
+            this.getPie();
         return resultado;
     }
 
+    public String getPie() {
+        return this.pie;
+    }
+    public void setPie(String input) {
+        this.pie = input;
+    }
     public String getTitulo() {
         return this.titulo;
     }

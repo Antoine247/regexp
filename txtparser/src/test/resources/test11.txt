@@ -1,0 +1,76 @@
+Informe Histo y Citopatológico
+Paciente:
+Protocolo:
+Médica/o:
+Procedencia:
+
+NEWBERY GREVE, ALBERTO
+100904
+No especificado
+OSDEPYM
+
+Fecha:
+23/Set/2023
+Afil/DNI/HC: 814578
+Edad:
+80
+
+Material:
+
+SANATORIO COLEGIALES.
+DNI 4404701.
+A) ANTRO GASTRICO. DETECCION DE HELICOBACTER PYLORI.
+B) CUERPO GASTRICO. DETECCION DE HELICOBACTER PYLORI.
+C) POLIPO GASTRICO.
+D) POLIPO EN COLON SIGMOIDES.
+
+Examen Macroscópico
+A) Se reciben dos fragmentos irregulares, pardo-claros, milimétricos. Reunidos miden 0.4 x 0.4 cm.
+B) Se reciben dos fragmentos irregulares, pardo-claros, milimétricos. Reunidos miden 0.5 x 0.4 cm.
+C) Se reciben dos fragmentos polipoides, pardo-claros, milimétricos. Reunidos miden 0.6 x 0.5 cm.
+D) Se recibe pólipo sésil, liso, pardo-claro. Mide 0.3 x 0.3 cm.
+Examen Microscópico
+A/B) Las secciones histológicas muestran mucosa gástrica antral y oxíntica, con fovéolas y epitelio
+conservado. La lámina propia exhibe leve infiltrado inflamatorio linfo-plasmocitario.
+C) Las secciones histológicas muestran mucosa oxíntica polipoide, con acortamiento foveolar y luces
+glandulares próximas entre sí, algunas con ectasia y aplanamiento epitelial. La lámina propia presenta
+edema, vasocongestión, haces de músculo liso y dispersas células inflamatorias.
+D) Las secciones histológicas muestran mucosa polipoide con proliferación de glándulas tubulares, que
+exhiben ectasia, tortuosidad y focal serramiento superficial, y revestimiento con numerosas células
+caliciformes. La lámina propia presenta leve infiltrado inflamatorio mixto.
+Estudios Complementarios
+A/B/C) Con técnica de Giemsa no se identifican microorganismos compatibles con Helicobacter pylori.
+Diagnóstico
+A) Mucosa gástrica antral, biopsia endoscópica con cortes seriados:
+Gastritis crónica leve, inactiva.
+Helicobacter pylori negativo.
+B) Mucosa gástrica corporal, biopsia endoscópica con cortes seriados:
+Gastritis crónica leve, inactiva.
+Helicobacter pylori negativo.
+
+Informe confidencial. Secreto médico. Alcance del artículo 156 del Código Penal.
+Sargento Salazar 1407, Hurlingham. Mail: redpathology@gmail.com.
+
+Paciente:
+Protocolo:
+
+NEWBERY GREVE, ALBERTO
+100904
+
+Fecha:
+Página:
+
+C) Pólipo gástrico, resección endoscópica con cortes seriados:
+Pólipo de glándulas fúndicas.
+Helicobacter pylori negativo.
+D) Pólipo en colon sigmoides, resección endoscópica con cortes seriados:
+Pólipo hiperplásico rico en células caliciformes.
+04/10/2023
+
+Informe confidencial. Secreto médico. Alcance del artículo 156 del Código Penal.
+Sargento Salazar 1407, Hurlingham. Mail: redpathology@gmail.com.
+
+23/Set/2023
+2
+
+
