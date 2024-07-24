@@ -1,43 +1,46 @@
-package txtparser.src.main.java;
-
+package main.java;
 public class Informe {
     
     private String titulo,
         paciente,
         protocolo,
         medico,
-        procedencia,
         fecha,
         afiliado,
+        obraSocial,
         edad,
-        tituloInforme,
         cuerpo,
         pie;   
 
 
     public String ordernar(){
         String resultado = "";
-        resultado = this.getTitulo() + 
-            "\nPaciente:\n" +
+        resultado = "*\n" + this.getTitulo() + 
+            "\nPaciente: " +
             this.getPaciente() +
-            "\nProtocolo:\n" +
+            "\nProtocolo: " +
             this.getProtocolo() + 
-            "\nMedico\\a:\n" +
+            "\nMédico\\a: " +
             this.getMedico() + 
-            "\nProcedencia:\n" +
-            this.getProcedencia() +
-            "\nFecha\n" +
+            "\nProcedencia: " +
+            this.getObraSocial() +
+            "\nFecha: " +
             this.getFecha() +
-            "\nAfiliado/DNI\n" +
+            "\nAfiliado/DNI: " +
             this.getAfiliado() +
-            "\nEdad:\n" +
+            "\nEdad: " +
             this.getEdad() + "\n" +
-            this.getTituloInforme() + "\n" +
             this.getCuerpo() + "\n" +
             this.getPie();
         return resultado;
     }
 
+    public String getObraSocial() {
+        return this.obraSocial;
+    }
+    public void setObraSocial(String input) {
+        this.obraSocial = input;
+    }
     public String getPie() {
         return this.pie;
     }
@@ -68,12 +71,6 @@ public class Informe {
     public void setMedico(String input) {
         this.medico = input;
     }
-    public String getProcedencia() {
-        return this.procedencia;
-    }
-    public void setProcedencia(String input) {
-        this.procedencia = input;
-    }
     public String getFecha() {
         return this.fecha;
     }
@@ -91,12 +88,6 @@ public class Informe {
     }
     public void setEdad(String input) {
         this.edad = input;
-    }
-    public String getTituloInforme() {
-        return this.tituloInforme;
-    }
-    public void setTituloInforme(String input) {
-        this.tituloInforme = input;
     }
     public String getCuerpo() {
         return this.cuerpo;
